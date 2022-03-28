@@ -1,7 +1,7 @@
 # Demo
 
-<<<<<<< HEAD
+### Header
 
-Dev Branch Dev Branch Header
+Dev Branch Header
 
 Dev Branch Footer
